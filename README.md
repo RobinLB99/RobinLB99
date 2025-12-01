@@ -12,7 +12,7 @@ Mi enfoque está en construir aplicaciones web robustas, seguras y escalables, a
 
 Me considero una persona autodidacta, adaptable y orientada a la mejora continua. A lo largo de mi formación he trabajado con **Java, Spring Boot, SQL/NoSQL, JavaScript, HTML y CSS**, además de explorar frameworks modernos como Angular y React. También cuento con conocimientos en **contenedorización y despliegue** mediante Docker y Docker Compose, lo que me ha permitido comprender cómo llevar aplicaciones desde el desarrollo hasta entornos productivos.  
 
-Mi experiencia incluye el uso de **MariaDB, MySQL, PostgreSQL, SQL Server y MongoDB**, lo que me brinda una visión amplia en la gestión de datos tanto relacionales como NoSQL. He trabajado en entornos **Linux y Windows**, siendo Linux mi preferido, lo que me ha permitido adaptarme a diferentes configuraciones y flujos de trabajo. Para mí, cada proyecto representa una oportunidad para aprender, iterar y aportar valor, siempre con la motivación de seguir creciendo en el mundo del desarrollo de software.  
+Mi experiencia incluye el uso de **MariaDB, MySQL, PostgreSQL, SQL Server y MongoDB**, lo que me brinda una visión amplia en la gestión de datos tanto relacionales como no relacionales. He trabajado en entornos **Linux y Windows**, siendo Linux mi preferido, lo que me ha permitido adaptarme a diferentes configuraciones y flujos de trabajo. Para mí, cada proyecto representa una oportunidad para aprender, iterar y aportar valor, siempre con la motivación de seguir creciendo en el mundo del desarrollo de software.  
 
 ---
 
