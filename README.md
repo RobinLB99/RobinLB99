@@ -1,70 +1,78 @@
-<h1 align="center">👋 Hola, soy Robin</h1>
+<div align="center">
+  
+  # Hola, soy Robin 👋
+  **Software Developer | Java, Spring Boot & SQL/NoSQL | Intelligent Systems Engineering Student | Linux & Infrastructure**
 
-<p align="center">
-Estudiante de <b>Ingeniería en Sistemas Inteligentes</b>.  
-Apasionado por el <b>desarrollo web con Java</b>, con una marcada preferencia por el backend, aunque también disfruto trabajar en frontend cuando el proyecto lo requiere.  
-Mi enfoque está en construir aplicaciones web robustas, seguras y escalables, aplicando buenas prácticas de desarrollo y explorando continuamente nuevas tecnologías que me permitan crecer como profesional.  
-</p>
+</div>
 
----
+<br/>
 
-## 🌟 Sobre mí  
+<div align="center">
+  
+  ### 👨‍💻 Sobre Mí
+  
+</div>
 
-Me considero una persona autodidacta, adaptable y orientada a la mejora continua. A lo largo de mi formación he trabajado con **Java, Spring Boot, SQL/NoSQL, JavaScript, HTML y CSS**, además de explorar frameworks modernos como Angular y React. También cuento con conocimientos en **contenedorización y despliegue** mediante Docker y Docker Compose, lo que me ha permitido comprender cómo llevar aplicaciones desde el desarrollo hasta entornos productivos.  
+Desarrollador de software enfocado en la construcción de soluciones desde cero, con especial interés en la arquitectura de sistemas y el desarrollo backend. Cuento con una base técnica sólida en **Redes y Telecomunicaciones**, lo que me permite comprender la infraestructura y el despliegue en entornos **Linux** de manera integral.
 
-Mi experiencia incluye el uso de **MariaDB, MySQL, PostgreSQL, SQL Server y MongoDB**, lo que me brinda una visión amplia en la gestión de datos tanto relacionales como no relacionales. He trabajado en entornos **Linux y Windows**, siendo Linux mi preferido, lo que me ha permitido adaptarme a diferentes configuraciones y flujos de trabajo. Para mí, cada proyecto representa una oportunidad para aprender, iterar y aportar valor, siempre con la motivación de seguir creciendo en el mundo del desarrollo de software.  
+Actualmente, centro mi actividad en el ecosistema de **Java y Spring Boot** para crear APIs seguras y escalables. Priorizo siempre el código limpio, el rendimiento en el servidor y un diseño UI/UX minimalista cuando desarrollo interfaces. Mi objetivo es aplicar mis conocimientos de **Ingeniería de Sistemas Inteligentes** para resolver problemas complejos mediante tecnología bien estructurada.
 
----
+<br/>
 
-## 🛠️ Tecnologías y Herramientas  
+<div align="center">
+  
+  ### 🛠️ Tecnologías y Herramientas
 
-<p align="center">
-  <!-- Lenguajes y Frameworks -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Preact-673AB8?style=for-the-badge&logo=preact&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=htmx&logoColor=white"/>
-</p>
+  <p><b>Backend & Databases</b></p>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/sqlserver-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <p><p/>
+  <p><b>Infrastructure & OS</b></p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <p><p/>
+  <p><b>Frontend & UI Tools (Complementary)</b></p>
+  <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf"/>
+  <img src="https://img.shields.io/badge/htmx-%23336699.svg?style=for-the-badge&logo=htmx&logoColor=white" alt="HTMX"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/preact-%23673AB8.svg?style=for-the-badge&logo=preact&logoColor=white" alt="Preact"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</div>
 
-<p align="center">
-  <!-- Bases de Datos -->
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+<br/>
 
-<p align="center">
-  <!-- DevOps & Otros -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</p>
+<div align="center">
+  
+  ### 🚀 Proyectos Destacados
+  
+</div>
 
----
+* **[LegalServicePortal API](https://github.com/RobinLB99/legal-service-portal-api)**: API REST escalable construida con **Java 25** y **Spring Boot 4** para la gestión de servicios legales.
+* **[DenunciasEcuador API](https://github.com/RobinLB99/denunciasecuador-api)**: Sistema backend para reportes de ciudadanos construido con **java 21** y **Spring boot 3.5**.
+* **[Portfolio Personal](https://github.com/RobinLB99/robinlugoboero)**: Interfaz minimalista desarrollada en **Angular** y Tailwind CSS para la exposición de trayectoria técnica y proyectos personales.
 
-## 🤝 Conectemos  
+<br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tnlgorobinlugo">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center">
+  
+  ### 📫 Contacto
+
+  <a href="https://www.linkedin.com/in/robinlugoboero">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:lugoboero1999@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
-
----
-
-<p align="center"><i>“Cada proyecto es una oportunidad para aprender, iterar y aportar valor.”</i></p>
+  
+</div>
