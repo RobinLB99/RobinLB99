@@ -35,6 +35,7 @@ Actualmente, centro mi actividad en el ecosistema de **Java y Spring Boot** para
   <p><b>⚙️ Backend & ORM</b></p>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/EclipseLink-2E6B9E?style=for-the-badge&logo=eclipse&logoColor=white" alt="EclipseLink"/>
   
   <p><p/>
 
