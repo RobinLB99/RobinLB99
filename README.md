@@ -1,6 +1,10 @@
+<div align="center">  
+
+  # Hola, soy Robin 👋
+
+</div>
 <div align="center">
-  
-# Hola, soy Robin 👋
+
 **Software Developer | Java, Spring Boot & SQL/NoSQL | Intelligent Systems Engineering Student | Linux & Infrastructure**
 
 </div>
@@ -13,9 +17,13 @@
   
 </div>
 
+<div align="justify">
+
 Desarrollador de software enfocado en la construcción de soluciones desde cero, con especial interés en la arquitectura de sistemas y el desarrollo backend. Cuento con una base técnica sólida en **Redes y Telecomunicaciones**, lo que me permite comprender la infraestructura y el despliegue en entornos **Linux** de manera integral.
 
 Actualmente, centro mi actividad en el ecosistema de **Java y Spring Boot** para crear APIs seguras y escalables. Priorizo siempre el código limpio, el rendimiento en el servidor y un diseño UI/UX minimalista cuando desarrollo interfaces. Mi objetivo es aplicar mis conocimientos de **Ingeniería de Sistemas Inteligentes** para resolver problemas complejos mediante tecnología bien estructurada.
+
+</div>
 
 <br/>
 
