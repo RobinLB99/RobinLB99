@@ -1,7 +1,7 @@
 <div align="center">
   
-  # Hola, soy Robin 👋
-  **Software Developer | Java, Spring Boot & SQL/NoSQL | Intelligent Systems Engineering Student | Linux & Infrastructure**
+# Hola, soy Robin 👋
+**Software Developer | Java, Spring Boot & SQL/NoSQL | Intelligent Systems Engineering Student | Linux & Infrastructure**
 
 </div>
 
