@@ -88,7 +88,7 @@ Actualmente, centro mi actividad en el ecosistema de **Java y Spring Boot** para
 
 * **[LegalServicePortal API](https://github.com/RobinLB99/legal-service-portal-api)**: API REST escalable construida con **Java 25** y **Spring Boot 4** para la gestión de servicios legales.
 * **[DenunciasEcuador API](https://github.com/RobinLB99/denunciasecuador-api)**: Sistema backend para reportes de ciudadanos construido con **Java 21** y **Spring Boot 3.5**.
-* **[Portfolio Personal](https://github.com/RobinLB99/robinlugoboero)**: Interfaz minimalista desarrollada en **Angular** y Tailwind CSS para la exposición de trayectoria técnica y proyectos personales.
+* **[Portfolio Personal](https://github.com/RobinLB99/robinlugoboero)**: Interfaz minimalista desarrollada en **Angular** y CSS Vanilla para la exposición de trayectoria técnica y proyectos personales.
 
 <br/>
 
